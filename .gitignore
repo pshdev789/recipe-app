@@ -1,0 +1,70 @@
+# Ignore Maven and Gradle build outputs
+/target/
+/build/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configuration files
+/.idea/
+/*.iml
+/.vscode/
+/*.class
+
+# Ignore IntelliJ IDEA project-specific files
+/out/
+
+# Ignore Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Ignore NetBeans project files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Ignore environment and sensitive files
+.env
+*.env
+*.key
+*.crt
+
+# Ignore JAR/WAR files
+*.jar
+*.war
+
+# Ignore Lombok generated files
+lombok.config
+
+# Ignore database files
+*.h2.db
+*.mv.db
+
+# Ignore logs
+*.log
+*.log.*
+
+# Ignore Node.js-related files (if applicable)
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/package-lock.json
+
+# Ignore coverage reports
+/coverage/
+*.lcov
+
+# Ignore temporary and backup files
+*.bak
+*.swp
+*.swo
+*.orig
+
