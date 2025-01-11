@@ -15,6 +15,7 @@ Thumbs.db
 /*.iml
 /.vscode/
 /*.class
+.gradle/
 
 # Ignore IntelliJ IDEA project-specific files
 /out/
